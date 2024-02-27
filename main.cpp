@@ -3,7 +3,8 @@
 
 int main()
 {
-    printf("Hello World");
+    cout<<"Hello World";
+	cout << "kiem thu phan mem";
 
     return 0;
 }
