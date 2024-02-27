@@ -12,5 +12,6 @@ int main()
 	
 	cout << "bai 2";
 >>>>>>> feature-new
+cout << "main chinh sua them ";
     return 0;
 }
