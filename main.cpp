@@ -5,6 +5,6 @@ int main()
 {
     	cout<<"Hello World";
 	cout << "kiem thu phan mem";
-	cout << "bai so 2";
+	cout << "bai 2";
     return 0;
 }
